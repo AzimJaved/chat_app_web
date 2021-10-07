@@ -1,0 +1,23 @@
+{
+  "name": "chat_app_web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AzimJaved/chat_app_web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AzimJaved/chat_app_web/issues"
+  },
+  "homepage": "https://github.com/AzimJaved/chat_app_web#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
